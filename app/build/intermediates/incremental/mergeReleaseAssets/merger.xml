@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android_project\JwtWfdmCodeProvider\app\src\main\assets"><file name="wfdmcode.db" path="D:\android_project\JwtWfdmCodeProvider\app\src\main\assets\wfdmcode.db"/></source><source path="D:\android_project\JwtWfdmCodeProvider\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\android_project\JwtWfdmCodeProvider\app\src\release\assets"/></dataSet></merger>

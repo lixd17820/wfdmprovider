@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Mar 15 08:50:55 CST 2017
+2.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+6.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-mdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-mdpi-v4\\book.png
+4.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\assets\\release
+7.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-ldpi-v4\\book.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+5.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+8.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\book.png
+4.set=ASSET
+6.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+1.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-ldpi-v4\\icon.png
+9.set=ANDROID_RESOURCE
+9.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+10.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+8.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+3.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+9.base=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=D\:\\android_project\\JwtWfdmCodeProvider\\app\\build\\intermediates\\assets\\release\\wfdmcode.db
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
